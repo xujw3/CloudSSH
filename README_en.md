@@ -65,7 +65,7 @@
 
 ## Highlights
 
-### Ultimate Serverless
+### Ultimate Serverlessss
 
 - **Zero Server Cost**: Pure frontend + Cloudflare Workers, no backend servers to maintain.
 - **Edge Acceleration**: Cloudflare's global edge network routes connections to the nearest location for low-latency SSH.
